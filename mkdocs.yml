@@ -1,0 +1,11 @@
+site_name: Tu Nombre - Portafolio
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: indigo
+nav:
+  - Inicio: index.md
+  - Experiencia: experiencia.md
+  - Educación: educacion.md
+  - Deportes y Hobbies: deportes.md
