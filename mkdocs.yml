@@ -1,11 +1,13 @@
-site_name: Tu Nombre - Portafolio
+site_name: Portafolio Profesional
+site_description: Perfil profesional minimalista
 theme:
   name: material
   palette:
+    scheme: slate
     primary: black
-    accent: indigo
+    accent: grey
 nav:
   - Inicio: index.md
   - Experiencia: experiencia.md
   - Educación: educacion.md
-  - Deportes y Hobbies: deportes.md
+  - Deportes: deportes.md
